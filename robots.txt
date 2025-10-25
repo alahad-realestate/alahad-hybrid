@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alahad-hybrid.netlify.app/sitemap.xml
